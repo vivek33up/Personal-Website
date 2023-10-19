@@ -1,0 +1,34 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    padding: 50px;
+    padding-top: 10px;
+}
+img{
+    height: 200px;
+    width: auto;
+}
+p{
+    font-style: italic;
+    padding: 0px 120px;
+}
+ul{
+    list-style: none;
+   
+}
+li{
+    padding-top: 20px;
+    float: left;
+    padding-left: 90px;
+   
+}
+h2{
+    padding-top: 20px;
+}
+.contact{
+    padding-top: 40px;
+}
+.git{
+    height: 100px;
+    width: auto;
+}
